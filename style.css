@@ -1,3 +1,6 @@
+*{
+    font-family: "Fredoka", sans-serif;
+}
 /* header style */
 .header{
     background-image: url(./img/Banner\ Image.png);
